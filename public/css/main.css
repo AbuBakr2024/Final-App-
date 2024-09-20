@@ -1,0 +1,32 @@
+body{
+
+background-color: black;
+color: white;
+font-weight: bold;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.card{
+
+background-color: gray;
+color: white;
+}
+
+
+.card-body{
+
+    background-color: gray;
+    color: white;
+}
+
+
+.form-group{
+margin: 15px 0px;
+
+ }
+
+ img, svg {
+    vertical-align: middle;
+    width: 50px;
+}
